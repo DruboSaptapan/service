@@ -1,22 +1,22 @@
 [
     {
         "id": "616d87365bc0d389efc217aa",
-        "image": "https://i.postimg.cc/MpSQnrpH/x-ray.png",
+        "image": "https://i.postimg.cc/MH9YWTH8/xray.jpg",
         "name": "X-ray"
     },
     {
         "id": "616d8736de99adfe6776f8fd",
-        "image": "https://i.postimg.cc/9XsThf3G/cardiology.png",
+        "image": "https://i.postimg.cc/Z5BLSJh1/cardiology.jpg",
         "name": "Cardiology"
     },
     {
         "id": "616d8736cf44170939aa7356",
-        "image": "https://i.postimg.cc/8cf14DtG/dentistry.png",
+        "image": "https://i.postimg.cc/zXPk6V4C/dentist.jpg",
         "name": "Dentistry"
     },
     {
         "id": "616d8736553d6b029307f7a7",
-        "image": "https://i.postimg.cc/w3K9bPGm/research.png",
+        "image": "https://i.postimg.cc/0yT05hkr/research.jpg",
         "name": "Research"
     },
     {
