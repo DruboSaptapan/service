@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "616d87365bc0d389efc217aa",
+        "picture": "https://i.postimg.cc/MpSQnrpH/x-ray.png",
+        "name": "X-ray"
+    },
+    {
+        "_id": "616d8736de99adfe6776f8fd",
+        "picture": "https://i.postimg.cc/9XsThf3G/cardiology.png",
+        "name": "Cardiology"
+    },
+    {
+        "_id": "616d8736cf44170939aa7356",
+        "picture": "https://i.postimg.cc/8cf14DtG/dentistry.png",
+        "name": "Dentistry"
+    },
+    {
+        "_id": "616d8736553d6b029307f7a7",
+        "picture": "https://i.postimg.cc/w3K9bPGm/research.png",
+        "name": "Research"
+    },
+    {
+        "_id": "616d87363b3ca1d43693ad7c",
+        "picture": "https://i.postimg.cc/65RZ5NwF/therapies.png",
+        "name": "Therapy"
+    },
+    {
+        "_id": "616d875e7ceb23a36fe1b9eb",
+        "picture": "https://i.postimg.cc/G34YVyfL/virusology.png",
+        "name": "Virusology"
+    },
+    {
+        "_id": "616d875ee2f4a8f09f272ca9",
+        "picture": "http://placehold.it/32x32",
+        "name": "John Hewitt"
+    },
+    {
+        "_id": "616d875ec8dde82eb08666d6",
+        "picture": "http://placehold.it/32x32",
+        "name": "Alison Hodge"
+    },
+    {
+        "_id": "616d875e152ab6164716e8e5",
+        "picture": "http://placehold.it/32x32",
+        "name": "Hopkins Lyons"
+    }
+]
