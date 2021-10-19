@@ -2,31 +2,37 @@
     {
         "id": "616d87365bc0d389efc217aa",
         "image": "https://i.postimg.cc/MH9YWTH8/xray.jpg",
-        "name": "X-ray"
+        "name": "X-ray",
+        "description" : "Before their discovery in 1895, X-rays were just a type of unidentified radiation emanating from experimental discharge tubes. They were noticed by scientists investigating cathode rays produced by such tubes, which are energetic electron beams that were first observed in 1869. Many of the early Crookes tubes (invented around 1875) undoubtedly radiated X-rays, because early researchers noticed effects that were attributable to them, as detailed below. Crookes tubes created free electrons by ionization of the residual air in the tube by a high DC voltage of anywhere between a few kilovolts and 100 kV. This voltage accelerated the electrons coming from the cathode to a high enough velocity that they created X-rays when they struck the anode or the glass wall of the tube.Before their discovery in 1895, X-rays were just a type of unidentified radiation emanating from experimental discharge tubes. They were noticed by scientists investigating cathode rays produced by such tubes, which are energetic electron beams that were first observed in 1869. Many of the early Crookes tubes (invented around 1875) undoubtedly radiated X-rays, because early researchers noticed effects that were attributable to them, as detailed below. Crookes tubes created free electrons by ionization of the residual air in the tube by a high DC voltage of anywhere between a few kilovolts and 100 kV. This voltage accelerated the electrons coming from the cathode to a high enough velocity that they created X-rays when they struck the anode or the glass wall of the tube."
     },
     {
         "id": "616d8736de99adfe6776f8fd",
         "image": "https://i.postimg.cc/nrNNH0Cx/cardiology.jpg",
-        "name": "Cardiology"
+        "name": "Adult Cardiology",
+        "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology. Physicians who specialize in this field of medicine are called cardiologists, a specialty of internal medicine. Pediatric cardiologists are pediatricians who specialize in cardiology. Physicians who specialize in cardiac surgery are called cardiothoracic surgeons or cardiac surgeons, a specialty of general surgery. Cardiology is a specialty of internal medicine. To be a cardiologist in the United States, a three-year residency in internal medicine is followed by a three-year fellowship in cardiology. It is possible to specialize further in a sub-specialty. Recognized sub-specialties in the United States by the ACGME are cardiac electrophysiology, echocardiography, interventional cardiology, and nuclear cardiology. Recognized subspecialties in the United States by the American Osteopathic Association Bureau of Osteopathic Specialists (AOABOS) include clinical cardiac electrophysiology and interventional cardiology. While in India, a person needs to undergo three years of residency in General Medicine or Pediatrics after M.B.B.S and then three years of residency in Cardiology to be a D.M/Diplomate of National Board (DNB) in Cardiology."
     },
     {
         "id": "616d8736cf44170939aa7356",
         "image": "https://i.postimg.cc/zXPk6V4C/dentist.jpg",
-        "name": "Dentistry"
+        "name": "Dentistry",
+        "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity (the mouth), commonly in the dentition (development and arrangement of teeth) as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area. The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures. The practitioner is called a dentist. Dentistry is often also understood to subsume the now largely defunct medical specialty of stomatology (the study of the mouth and its disorders and diseases) for which reason the two terms are used interchangeably in certain regions. For instance, in Australia, stomatology is considered to be a specialty of dentistry. However, some specialties such as oral and maxillofacial surgery (facial reconstruction) may require both medical and dental degrees to accomplish. Dentistry and some branches of medicine in European history were considered to have stemmed from the trade of barber surgeons. However, both fields have evolved since with a heavier emphasis in life sciences, evidence-based research and evidence-based practice."
     },
     {
         "id": "616d8736553d6b029307f7a7",
         "image": "https://i.postimg.cc/0yT05hkr/research.jpg",
-        "name": "Research"
+        "name": "Research",
+        "description": "Doctors’ Research, Inc. is dedicated to providing research to licensed doctors as well as the highest quality nutritional supplements, in a form that is as close as possible to those naturally found in foods. It is well understood by nutrition researchers that we, as humans, should derive nutrition from food. It is our goal at Doctors’ Research to provide the best, scientifically researched, natural food supplements which meet the needs of those who live in our “modern” society. Doctors’ Research products are environmentally friendly. They are natural food complexes which have been shown to be better for the internal human environment. They are supplied in recyclable glass bottles which we feel are better for the global environment (as well as the supplement’s environment)."
     },
     {
         "id": "616d87363b3ca1d43693ad7c",
         "image": "https://i.postimg.cc/4Nhr8kSx/therapy.jpg",
-        "name": "Therapy"
+        "name": "Therapy",
+        "description": "Treatment decisions often follow formal or informal algorithmic guidelines. Treatment options can often be ranked or prioritized into lines of therapy: first-line therapy, second-line therapy, third-line therapy, and so on. First-line therapy (sometimes called induction therapy, primary therapy, or front-line therapy) is the first therapy that will be tried. Its priority over other options is usually either: (1) formally recommended on the basis of clinical trial evidence for its best-available combination of efficacy, safety, and tolerability or (2) chosen based on the clinical experience of the physician. If a first-line therapy either fails to resolve the issue or produces intolerable side effects, additional (second-line) therapies may be substituted or added to the treatment regimen, followed by third-line therapies, and so on."
     },
     {
         "id": "616d875e7ceb23a36fe1b9eb",
         "image": "https://i.postimg.cc/WpyB6bSy/virusology.jpg",
-        "name": "Virusology"
+        "name": "Virusology",
+        "description": "One main motivation for the study of viruses is the fact that they cause many important infectious diseases, among them the common cold, influenza, rabies, measles, many forms of diarrhea, hepatitis, Dengue fever, yellow fever, polio, smallpox and AIDS.[9] Herpes simplex causes cold sores and genital herpes and is under investigation as a possible factor in Alzheimer's. Some viruses, known as oncoviruses, contribute to the development of certain forms of cancer. The best-studied example is the association between Human papillomavirus and cervical cancer: almost all cases of cervical cancer are caused by certain strains of this sexually transmitted virus. Another example is the association of infection with hepatitis B and hepatitis C viruses and liver cancer. Some subviral particles also cause disease: the transmissible spongiform encephalopathies, which include Kuru, Creutzfeldt–Jakob disease and bovine spongiform encephalopathy ('mad cow disease'), are caused by prions, hepatitis D is due to a satellite virus. The study of the manner in which viruses cause disease is viral pathogenesis. The degree to which a virus causes disease is its virulence."
     }
 ]
